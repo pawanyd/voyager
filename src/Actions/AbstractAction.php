@@ -33,6 +33,7 @@ abstract class AbstractAction implements ActionInterface
     public function getAttributes()
     {
         return [];
+        
     }
 
     public function convertAttributesToHtml()
