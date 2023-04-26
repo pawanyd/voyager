@@ -17,4 +17,5 @@ interface ActionInterface
     public function getDefaultRoute();
 
     public function getDataType();
+    
 }
